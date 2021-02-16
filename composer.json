@@ -1,0 +1,7 @@
+{
+    "name": "internetstores/pdc-php",
+    "description": "Dummy project to publish on packagist for preventing dependency confusion (see README.md)",
+    "require": {
+        "php": ">=7.4"
+    }
+}
